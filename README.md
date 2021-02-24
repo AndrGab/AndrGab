@@ -1,15 +1,15 @@
 ### Hi There!
 <img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" width="50">
 
-#### I'm a Biomedical Scientist and an Enthusiast Programmer who luvs Life, Science and Computing.
+I'm a Biomedical Scientist and an Enthusiast Programmer who luvs Life, Science and Computing.
 
-Interests:
+#### Interests:
 - Javascript, Typescript, Node, React, React Native, Elixir
 - FireBase, AWS
 - Agile, Scrum,  BPMN
 - MySQL, PL/SQL, ORACLE, POSTGRESQL
 
-You can Reach me:
+#### You can Reach me:
 
 [![Linkedin: andrgab](https://img.shields.io/badge/-andrgab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrgab/)](https://www.linkedin.com/in/andrgab/)
 
