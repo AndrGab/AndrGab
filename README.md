@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi There!
+<img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" width="50">
 
-<!--
-**AndrGab/AndrGab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Biomedical Scientist and an Enthusiast Programmer who luvs Life, Science and Computing.
 
-Here are some ideas to get you started:
+Now:
+- Working with a great Team in a major Hospital in my region
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests:
+- Javascript, Node, React, React Native, Elixir
+- FireBase, AWS
+- Agile, Scrum,  BPMN
+- MySQL, PL/SQL, ORACLE, POSTGRESQL
+
+You can Reach me:
+[![Twitter Follow](https://img.shields.io/twitter/follow/andrgab?label=Follow)](https://twitter.com/intent/follow?screen_name=andrgab)
+[![Linkedin: andrgab](https://img.shields.io/badge/-andrgab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrgab/)](https://www.linkedin.com/in/andrgab/)
+![GitHub followers](https://img.shields.io/github/followers/AndrGab?label=Follow&style=social)
