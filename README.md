@@ -1,7 +1,7 @@
 ### Hi There!
 <img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" width="50">
 
-I'm a Biomedical Scientist and an Enthusiast Programmer who luvs Life, Science and Computing.
+I'm a Biomedical Scientist and an IT Professional who luvs Life, Science and Computing.
 
 #### Interests:
 - Javascript, Typescript, Node, React, React Native, Elixir
