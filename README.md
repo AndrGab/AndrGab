@@ -2,6 +2,7 @@
 
 I'm a Biomedical Scientist and an IT Professional who luvs Life, Science and Computing.
 
+I look forward to collaborating on new projects so I can improve my development skills.
 
 I'm currently working with:
 
