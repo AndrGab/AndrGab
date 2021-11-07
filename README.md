@@ -1,4 +1,21 @@
-### Hi There! 🖐️
+## Hi, There! 👋👋
+
+### {:ok, "Andre Gabriel"} 💜 Elixir
+
+```elixir
+defmodule AndrGab.ReadMe.Profile do
+
+   def my_profile do
+      %{name: "Andre Gabriel",
+      email: "andrgab@gmail.com",
+     code: [Elixir, NodeJs, ReactJs, Javascript, Typescript],
+     db: [PostgreSQL, Oracle],
+     phrase: "Never Stop Learning",
+     open_to: [Development, Remote Work, Freelance]
+     }
+   end
+end
+```
 
 I'm a Biomedical Scientist and an IT Professional who luvs Life, Science and Computing.
 
@@ -45,6 +62,14 @@ I'm currently working with:
 [![Linkedin: andrgab](https://img.shields.io/badge/-andrgab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrgab/)](https://www.linkedin.com/in/andrgab/)
 [![Gmail Badge](https://img.shields.io/badge/-andrgab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrgab@gmail.com)](mailto:andrgab@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/AndrGab?label=Follow&style=social)
+
+### My proud projects
+
+Project name | Main language | Description
+-------------|---------------|-----------
+Medirepo | Backend: Elixir | A simple project to help hospitals handle with daily Medical Reports for COVID-19 pacients
+MedrepoWeb | Frontend: ReactJS | The frontend application for MediRepo
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrgab&show_icons=true&locale=en&layout=compact" alt="andrgab" /></p>
 
