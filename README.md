@@ -69,6 +69,8 @@ Project name | Main language | Description
 -------------|---------------|-----------
 [MediRepo](https://github.com/AndrGab/MediRepo) | Backend: Elixir | My personal project to help hospitals handle with daily Medical Reports for COVID-19 pacients
 [MediRepoWeb](https://github.com/AndrGab/medirepoWeb) | Frontend: ReactJS | The frontend application for MediRepo
+[LetMeAsk](https://github.com/AndrGab/LetMeAsk) | TypeScript and Firebase | Create chat rooms and talk with your audience on-line. You can use it with Twitch.
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrgab&show_icons=true&locale=en&layout=compact" alt="andrgab" /></p>
