@@ -4,14 +4,13 @@
 
 ```elixir
 defmodule AndrGab.ReadMe.Profile do
-
    def my_profile do
-      %{name: "Andre Gabriel",
-      email: "andrgab@gmail.com",
-     code: [Elixir, NodeJs, ReactJs, Javascript, Typescript],
-     db: [PostgreSQL, Oracle],
+     %{name: "Andre Gabriel",
+     email: "andrgab@gmail.com",
+     code: ["Elixir", "NodeJs", "ReactJs", "Javascript", "Typescript"],
+     db: ["PostgreSQL", "Oracle"],
      phrase: "Never Stop Learning",
-     open_to: [Development, Remote Work, Freelance]
+     open_to: ["Development", "Remote Work", "Freelance"]
      }
    end
 end
