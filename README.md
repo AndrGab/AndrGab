@@ -1,60 +1,8 @@
-## Hi, There! 👋👋
-
-### {:ok, "Andre Gabriel"} 💜 Elixir
-
-```elixir
-defmodule AndrGab.ReadMe.Profile do
-   def my_profile do
-     %{name: "Andre Gabriel",
-     email: "andrgab@gmail.com",
-     code: ["Elixir", "NodeJs", "ReactJs", "Javascript", "Typescript"],
-     db: ["PostgreSQL", "Oracle"],
-     phrase: "Never Stop Learning",
-     open_to: ["Development", "Remote Work", "Freelance"]
-     }
-   end
-end
-```
+![Preto e Branco Moderno Cabeçalho de E-mail](https://user-images.githubusercontent.com/57791712/168454788-455b606d-8aba-437f-bfbe-00d6da697a43.png)
 
 I'm a Biomedical Scientist and an IT Professional who luvs Life, Science and Computing.
 
 I look forward to collaborating on new projects so I can improve my development skills.
-
-I'm currently working with:
-
-![Elixir](https://img.shields.io/badge/-Elixir-181717?style=flat-square&logo=elixir) 
-![Phoenix](https://img.shields.io/badge/-Phoenix-181717?style=flat-square&logo=elixir)
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-181717?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql)
-![Oracle](https://img.shields.io/badge/-Oracle-181717?style=flat-square&logo=oracle)
-![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
-
-![Heroku](https://img.shields.io/badge/-Heroku-181717?style=flat-square&logo=heroku)
-![Gigalixir](https://img.shields.io/badge/-Gigalixir-181717?style=flat-square&logo=gigalixir)
-
-**🤓 Interests**
-
-![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-181717?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C-181717?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-181717?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript)
-
-![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
-![Delphi](https://img.shields.io/badge/-Delphi-181717?style=flat-square&logo=delphi)
-![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-181717?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-181717?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-181717?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-181717?style=flat-square&logo=google-cloud)
 
 **You can Reach me:**
 
