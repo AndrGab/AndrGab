@@ -24,8 +24,4 @@ Project name | Main language | Description
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrgab&show_icons=true&locale=en&layout=compact" alt="andrgab" /></p>
-
-
-<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="50">
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrgab&show_icons=true&locale=en&layout=compact" alt="andrgab" /></p>
