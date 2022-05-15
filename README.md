@@ -1,5 +1,8 @@
 ![image](https://user-images.githubusercontent.com/57791712/168454900-3967c571-662f-4b47-9a34-139aef2f20ef.png)
 
+![Design sem nome](https://user-images.githubusercontent.com/57791712/168470838-0c601b7a-a469-47a5-8a50-f149f674a0f6.png)
+
+
 I'm a Biomedical Scientist and an IT Professional who luvs Life, Science and Computing.
 
 I look forward to collaborating on new projects so I can improve my development skills.
