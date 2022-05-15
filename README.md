@@ -1,4 +1,4 @@
-![Preto e Branco Moderno Cabeçalho de E-mail](https://user-images.githubusercontent.com/57791712/168454788-455b606d-8aba-437f-bfbe-00d6da697a43.png)
+![image](https://user-images.githubusercontent.com/57791712/168454900-3967c571-662f-4b47-9a34-139aef2f20ef.png)
 
 I'm a Biomedical Scientist and an IT Professional who luvs Life, Science and Computing.
 
