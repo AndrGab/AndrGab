@@ -1,5 +1,5 @@
+![Design](https://user-images.githubusercontent.com/57791712/168474012-b938f573-3bb5-4bdd-aabf-efb82a9ec956.png)
 
-![imagem](https://user-images.githubusercontent.com/57791712/168470838-0c601b7a-a469-47a5-8a50-f149f674a0f6.png)
 ---
 
 🔬 I'm a Biomedical Scientist and 💻 an IT Professional who luvs Life, Science and Computing.
