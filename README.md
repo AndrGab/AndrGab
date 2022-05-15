@@ -1,10 +1,12 @@
 
-![Design sem nome](https://user-images.githubusercontent.com/57791712/168470838-0c601b7a-a469-47a5-8a50-f149f674a0f6.png)
+![imagem](https://user-images.githubusercontent.com/57791712/168470838-0c601b7a-a469-47a5-8a50-f149f674a0f6.png)
 ---
 
-I'm a Biomedical Scientist and an IT Professional who luvs Life, Science and Computing.
+🔬 I'm a Biomedical Scientist and 💻 an IT Professional who luvs Life, Science and Computing.
 
-I look forward to collaborating on new projects so I can improve my development skills.
+🤓 I'm looking forward to collaborating on new projects so I can improve 🚀 my development skills.
+
+💜 I build stuff for web using Elixir💧, Typescript, React and Node.
 
 **You can Reach me:**
 
