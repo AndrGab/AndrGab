@@ -1,4 +1,7 @@
-![Design](https://user-images.githubusercontent.com/57791712/168474012-b938f573-3bb5-4bdd-aabf-efb82a9ec956.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/57791712/169677612-06c2b587-c255-42a2-9aea-1e6cbf207c2e.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/57791712/169677626-e85ce649-2ade-4dee-90ca-0df0fbac8c0e.png">
+</picture>
 
 ---
 
@@ -25,3 +28,7 @@ Project name | Main language | Description
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrgab&show_icons=true&locale=en&layout=compact" alt="andrgab" /></p>
+
+
+
+
