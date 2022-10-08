@@ -25,10 +25,9 @@ Project name | Main language | Description
 [MediRepoWeb](https://github.com/AndrGab/medirepoWeb) | Frontend: ReactJS | The frontend application for MediRepo
 [LetMeAsk](https://github.com/AndrGab/LetMeAsk) | TypeScript and Firebase | Create chat rooms and talk with your audience on-line. You can use it with Twitch.
 
-
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrgab&show_icons=true&locale=en&layout=compact" alt="andrgab" /></p>
 
 
+[![@andrgab's Holopin board](https://holopin.io/api/user/board?user=andrgab)](https://holopin.io/@andrgab)
 
 
