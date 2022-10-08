@@ -27,6 +27,7 @@ Project name | Main language | Description
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrgab&show_icons=true&locale=en&layout=compact" alt="andrgab" /></p>
 
+---
 
 [![@andrgab's Holopin board](https://holopin.io/api/user/board?user=andrgab)](https://holopin.io/@andrgab)
 
