@@ -9,7 +9,7 @@
 
 🤓 I'm looking forward to collaborating on new projects so I can improve 🚀 my development skills.
 
-💜 I build stuff for web using Elixir💧, Typescript, React and Node.
+💜 I build stuff for web using Elixir💧, Typescript, React, Node and Python.
 
 **You can Reach me:**
 
