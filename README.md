@@ -29,6 +29,4 @@ Project name | Main language | Description
 
 ---
 
-[![@andrgab's Holopin board](https://holopin.io/api/user/board?user=andrgab)](https://holopin.io/@andrgab)
-
-
+[![An image of @andrgab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrgab)](https://holopin.io/@andrgab)
