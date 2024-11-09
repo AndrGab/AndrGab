@@ -1,6 +1,6 @@
 ### 👋 Hello! 
 
-- 😄 Software Developer and Biomedical Scientist with a passion for Life, Science, and Computing.
+- 👨‍🔬 I'm a Software Developer and a Biomedical Scientist with a passion for Life, Science, and Computing.
   
 - 🌱 I'm constantly looking for new challenges to sharpen my skills and collaborate on innovative projects!
   
