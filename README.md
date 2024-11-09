@@ -1,5 +1,14 @@
-## Hi there 👋
+### 👋 Hello! I'm Andre Gabriel
 
+🔬 I'm a Biomedical Scientist and 
+
+💻 an IT Professional with a passion for Life, Science, and Computing.
+
+I'm constantly looking for new challenges to sharpen my skills and collaborate on innovative projects!
+
+🌐 **I build web applications** using Elixir💧, TypeScript, React, Node.js, and Python.
+
+---
 <!--
 **AndrGab/AndrGab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
