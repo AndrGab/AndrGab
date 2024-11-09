@@ -1,12 +1,10 @@
-### 👋 Hello! I'm Andre Gabriel
+### 👋 Hello! 
 
-🔬 I'm a Biomedical Scientist and 
-
-💻 an IT Professional with a passion for Life, Science, and Computing.
+### Software Developer and Biomedical Scientist with a passion for Life, Science, and Computing.
 
 I'm constantly looking for new challenges to sharpen my skills and collaborate on innovative projects!
 
-🌐 **I build web applications** using Elixir💧, TypeScript, React, Node.js, and Python.
+🌐 **I build web applications** using Elixir 💜, TypeScript, React, Node.js, and Python.
 
 ---
 <!--
